@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/rober/Desktop/Four_Games_Atrifact_Project/SimonSays V2.2/SimonSays/Content/Box.bmp</File>
+    <File>C:/Users/rober/Desktop/Four_Games_Atrifact_Project/SimonSays V2.2/SimonSays/Content/Bright.bmp</File>
+    <File>C:/Users/rober/Desktop/Four_Games_Atrifact_Project/SimonSays V2.2/SimonSays/Content/File.spritefont</File>
+    <File>C:/Users/rober/Desktop/Four_Games_Atrifact_Project/SimonSays V2.2/SimonSays/Content/Unpressed.bmp</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File>Font</File>
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

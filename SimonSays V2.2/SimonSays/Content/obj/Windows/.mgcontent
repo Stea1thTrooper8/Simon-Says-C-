@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/rober/Desktop/SimonSays_V1.02_2/SimonSays_V1.02/SimonSays_2/SimonSays/SimonSays_v1.00/SimonSays/Content/Box.bmp</File>
+    <File>C:/Users/rober/Desktop/SimonSays_V1.02_2/SimonSays_V1.02/SimonSays_2/SimonSays/SimonSays_v1.00/SimonSays/Content/Bright.bmp</File>
+    <File>C:/Users/rober/Desktop/SimonSays_V1.02_2/SimonSays_V1.02/SimonSays_2/SimonSays/SimonSays_v1.00/SimonSays/Content/File.spritefont</File>
+    <File>C:/Users/rober/Desktop/SimonSays_V1.02_2/SimonSays_V1.02/SimonSays_2/SimonSays/SimonSays_v1.00/SimonSays/Content/Unpressed.bmp</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File>Font</File>
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

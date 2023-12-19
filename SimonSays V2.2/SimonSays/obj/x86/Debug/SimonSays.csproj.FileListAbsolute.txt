@@ -1,0 +1,328 @@
+D:\XnaProjects\SimonSays\SimonSays\bin\Windows\x86\Debug\Content\Box.xnb
+D:\XnaProjects\SimonSays\SimonSays\bin\Windows\x86\Debug\SimonSays.exe
+D:\XnaProjects\SimonSays\SimonSays\bin\Windows\x86\Debug\SimonSays.pdb
+D:\XnaProjects\SimonSays\SimonSays\bin\Windows\x86\Debug\MonoGame.Framework.dll
+D:\XnaProjects\SimonSays\SimonSays\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+D:\XnaProjects\SimonSays\SimonSays\bin\Windows\x86\Debug\SharpDX.dll
+D:\XnaProjects\SimonSays\SimonSays\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+D:\XnaProjects\SimonSays\SimonSays\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+D:\XnaProjects\SimonSays\SimonSays\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+D:\XnaProjects\SimonSays\SimonSays\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+D:\XnaProjects\SimonSays\SimonSays\bin\Windows\x86\Debug\SharpDX.XInput.dll
+D:\XnaProjects\SimonSays\SimonSays\bin\Windows\x86\Debug\MonoGame.Framework.xml
+D:\XnaProjects\SimonSays\SimonSays\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+D:\XnaProjects\SimonSays\SimonSays\bin\Windows\x86\Debug\SharpDX.xml
+D:\XnaProjects\SimonSays\SimonSays\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+D:\XnaProjects\SimonSays\SimonSays\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+D:\XnaProjects\SimonSays\SimonSays\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+D:\XnaProjects\SimonSays\SimonSays\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+D:\XnaProjects\SimonSays\SimonSays\bin\Windows\x86\Debug\SharpDX.XInput.xml
+D:\XnaProjects\SimonSays\SimonSays\obj\x86\Debug\SimonSays.csprojAssemblyReference.cache
+D:\XnaProjects\SimonSays\SimonSays\obj\x86\Debug\SimonSays.csproj.CopyComplete
+D:\XnaProjects\SimonSays\SimonSays\obj\x86\Debug\SimonSays.exe
+D:\XnaProjects\SimonSays\SimonSays\obj\x86\Debug\SimonSays.pdb
+D:\XnaProjects\SimonSays\SimonSays\bin\Windows\x86\Debug\Content\Unpressed.xnb
+C:\Users\BRENDAN\Desktop\SimonSAys\SimonSays\SimonSays\bin\Windows\x86\Debug\Content\Box.xnb
+C:\Users\BRENDAN\Desktop\SimonSAys\SimonSays\SimonSays\bin\Windows\x86\Debug\Content\Unpressed.xnb
+C:\Users\BRENDAN\Desktop\SimonSAys\SimonSays\SimonSays\bin\Windows\x86\Debug\SimonSays.exe
+C:\Users\BRENDAN\Desktop\SimonSAys\SimonSays\SimonSays\bin\Windows\x86\Debug\SimonSays.pdb
+C:\Users\BRENDAN\Desktop\SimonSAys\SimonSays\SimonSays\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\BRENDAN\Desktop\SimonSAys\SimonSays\SimonSays\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\BRENDAN\Desktop\SimonSAys\SimonSays\SimonSays\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\BRENDAN\Desktop\SimonSAys\SimonSays\SimonSays\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\BRENDAN\Desktop\SimonSAys\SimonSays\SimonSays\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\BRENDAN\Desktop\SimonSAys\SimonSays\SimonSays\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\BRENDAN\Desktop\SimonSAys\SimonSays\SimonSays\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\BRENDAN\Desktop\SimonSAys\SimonSays\SimonSays\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\BRENDAN\Desktop\SimonSAys\SimonSays\SimonSays\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\BRENDAN\Desktop\SimonSAys\SimonSays\SimonSays\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\BRENDAN\Desktop\SimonSAys\SimonSays\SimonSays\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\BRENDAN\Desktop\SimonSAys\SimonSays\SimonSays\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\BRENDAN\Desktop\SimonSAys\SimonSays\SimonSays\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\BRENDAN\Desktop\SimonSAys\SimonSays\SimonSays\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\BRENDAN\Desktop\SimonSAys\SimonSays\SimonSays\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\BRENDAN\Desktop\SimonSAys\SimonSays\SimonSays\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\BRENDAN\Desktop\SimonSAys\SimonSays\SimonSays\obj\x86\Debug\SimonSays.csprojAssemblyReference.cache
+C:\Users\BRENDAN\Desktop\SimonSAys\SimonSays\SimonSays\obj\x86\Debug\SimonSays.csproj.CopyComplete
+C:\Users\BRENDAN\Desktop\SimonSAys\SimonSays\SimonSays\obj\x86\Debug\SimonSays.exe
+C:\Users\BRENDAN\Desktop\SimonSAys\SimonSays\SimonSays\obj\x86\Debug\SimonSays.pdb
+C:\Users\rober\Downloads\SimonSAys_-_Copy\SimonSAys - Copy\SimonSays\SimonSays\bin\Windows\x86\Debug\Content\Box.xnb
+C:\Users\rober\Downloads\SimonSAys_-_Copy\SimonSAys - Copy\SimonSays\SimonSays\bin\Windows\x86\Debug\Content\Unpressed.xnb
+C:\Users\rober\Downloads\SimonSAys_-_Copy\SimonSAys - Copy\SimonSays\SimonSays\bin\Windows\x86\Debug\SimonSays.exe
+C:\Users\rober\Downloads\SimonSAys_-_Copy\SimonSAys - Copy\SimonSays\SimonSays\bin\Windows\x86\Debug\SimonSays.pdb
+C:\Users\rober\Downloads\SimonSAys_-_Copy\SimonSAys - Copy\SimonSays\SimonSays\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\rober\Downloads\SimonSAys_-_Copy\SimonSAys - Copy\SimonSays\SimonSays\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\rober\Downloads\SimonSAys_-_Copy\SimonSAys - Copy\SimonSays\SimonSays\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\rober\Downloads\SimonSAys_-_Copy\SimonSAys - Copy\SimonSays\SimonSays\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\rober\Downloads\SimonSAys_-_Copy\SimonSAys - Copy\SimonSays\SimonSays\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\rober\Downloads\SimonSAys_-_Copy\SimonSAys - Copy\SimonSays\SimonSays\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\rober\Downloads\SimonSAys_-_Copy\SimonSAys - Copy\SimonSays\SimonSays\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\rober\Downloads\SimonSAys_-_Copy\SimonSAys - Copy\SimonSays\SimonSays\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\rober\Downloads\SimonSAys_-_Copy\SimonSAys - Copy\SimonSays\SimonSays\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\rober\Downloads\SimonSAys_-_Copy\SimonSAys - Copy\SimonSays\SimonSays\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\rober\Downloads\SimonSAys_-_Copy\SimonSAys - Copy\SimonSays\SimonSays\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\rober\Downloads\SimonSAys_-_Copy\SimonSAys - Copy\SimonSays\SimonSays\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\rober\Downloads\SimonSAys_-_Copy\SimonSAys - Copy\SimonSays\SimonSays\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\rober\Downloads\SimonSAys_-_Copy\SimonSAys - Copy\SimonSays\SimonSays\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\rober\Downloads\SimonSAys_-_Copy\SimonSAys - Copy\SimonSays\SimonSays\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\rober\Downloads\SimonSAys_-_Copy\SimonSAys - Copy\SimonSays\SimonSays\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\rober\Downloads\SimonSAys_-_Copy\SimonSAys - Copy\SimonSays\SimonSays\obj\x86\Debug\SimonSays.csprojAssemblyReference.cache
+C:\Users\rober\Downloads\SimonSAys_-_Copy\SimonSAys - Copy\SimonSays\SimonSays\obj\x86\Debug\SimonSays.csproj.CopyComplete
+C:\Users\rober\Downloads\SimonSAys_-_Copy\SimonSAys - Copy\SimonSays\SimonSays\obj\x86\Debug\SimonSays.exe
+C:\Users\rober\Downloads\SimonSAys_-_Copy\SimonSAys - Copy\SimonSays\SimonSays\obj\x86\Debug\SimonSays.pdb
+C:\Users\rober\Desktop\SimonSAys_-_Copy\SimonSAys - Copy\SimonSays\SimonSays\obj\x86\Debug\SimonSays.csprojAssemblyReference.cache
+C:\Users\rober\Desktop\SimonSAys_-_Copy\SimonSAys - Copy\SimonSays\SimonSays\obj\x86\Debug\SimonSays.exe
+C:\Users\rober\Desktop\SimonSAys_-_Copy\SimonSAys - Copy\SimonSays\SimonSays\obj\x86\Debug\SimonSays.pdb
+C:\Users\rober\Desktop\SimonSAys_-_Copy\SimonSAys - Copy\SimonSays\SimonSays\bin\Windows\x86\Debug\Content\Box.xnb
+C:\Users\rober\Desktop\SimonSAys_-_Copy\SimonSAys - Copy\SimonSays\SimonSays\bin\Windows\x86\Debug\Content\Unpressed.xnb
+C:\Users\rober\Desktop\SimonSAys_-_Copy\SimonSAys - Copy\SimonSays\SimonSays\bin\Windows\x86\Debug\SimonSays.exe
+C:\Users\rober\Desktop\SimonSAys_-_Copy\SimonSAys - Copy\SimonSays\SimonSays\bin\Windows\x86\Debug\SimonSays.pdb
+C:\Users\rober\Desktop\SimonSAys_-_Copy\SimonSAys - Copy\SimonSays\SimonSays\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\rober\Desktop\SimonSAys_-_Copy\SimonSAys - Copy\SimonSays\SimonSays\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\rober\Desktop\SimonSAys_-_Copy\SimonSAys - Copy\SimonSays\SimonSays\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\rober\Desktop\SimonSAys_-_Copy\SimonSAys - Copy\SimonSays\SimonSays\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\rober\Desktop\SimonSAys_-_Copy\SimonSAys - Copy\SimonSays\SimonSays\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\rober\Desktop\SimonSAys_-_Copy\SimonSAys - Copy\SimonSays\SimonSays\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\rober\Desktop\SimonSAys_-_Copy\SimonSAys - Copy\SimonSays\SimonSays\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\rober\Desktop\SimonSAys_-_Copy\SimonSAys - Copy\SimonSays\SimonSays\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\rober\Desktop\SimonSAys_-_Copy\SimonSAys - Copy\SimonSays\SimonSays\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\rober\Desktop\SimonSAys_-_Copy\SimonSAys - Copy\SimonSays\SimonSays\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\rober\Desktop\SimonSAys_-_Copy\SimonSAys - Copy\SimonSays\SimonSays\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\rober\Desktop\SimonSAys_-_Copy\SimonSAys - Copy\SimonSays\SimonSays\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\rober\Desktop\SimonSAys_-_Copy\SimonSAys - Copy\SimonSays\SimonSays\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\rober\Desktop\SimonSAys_-_Copy\SimonSAys - Copy\SimonSays\SimonSays\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\rober\Desktop\SimonSAys_-_Copy\SimonSAys - Copy\SimonSays\SimonSays\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\rober\Desktop\SimonSAys_-_Copy\SimonSAys - Copy\SimonSays\SimonSays\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\rober\Desktop\SimonSAys_-_Copy\SimonSAys - Copy\SimonSays\SimonSays\obj\x86\Debug\SimonSays.csproj.CopyComplete
+C:\Users\rober\Desktop\SimonSaysIndex\SimonSays\bin\Windows\x86\Debug\Content\Box.xnb
+C:\Users\rober\Desktop\SimonSaysIndex\SimonSays\bin\Windows\x86\Debug\Content\Unpressed.xnb
+C:\Users\rober\Desktop\SimonSaysIndex\SimonSays\bin\Windows\x86\Debug\SimonSays.exe
+C:\Users\rober\Desktop\SimonSaysIndex\SimonSays\bin\Windows\x86\Debug\SimonSays.pdb
+C:\Users\rober\Desktop\SimonSaysIndex\SimonSays\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\rober\Desktop\SimonSaysIndex\SimonSays\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\rober\Desktop\SimonSaysIndex\SimonSays\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\rober\Desktop\SimonSaysIndex\SimonSays\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\rober\Desktop\SimonSaysIndex\SimonSays\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\rober\Desktop\SimonSaysIndex\SimonSays\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\rober\Desktop\SimonSaysIndex\SimonSays\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\rober\Desktop\SimonSaysIndex\SimonSays\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\rober\Desktop\SimonSaysIndex\SimonSays\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\rober\Desktop\SimonSaysIndex\SimonSays\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\rober\Desktop\SimonSaysIndex\SimonSays\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\rober\Desktop\SimonSaysIndex\SimonSays\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\rober\Desktop\SimonSaysIndex\SimonSays\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\rober\Desktop\SimonSaysIndex\SimonSays\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\rober\Desktop\SimonSaysIndex\SimonSays\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\rober\Desktop\SimonSaysIndex\SimonSays\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\rober\Desktop\SimonSaysIndex\SimonSays\obj\x86\Debug\SimonSays.csprojAssemblyReference.cache
+C:\Users\rober\Desktop\SimonSaysIndex\SimonSays\obj\x86\Debug\SimonSays.csproj.CopyComplete
+C:\Users\rober\Desktop\SimonSaysIndex\SimonSays\obj\x86\Debug\SimonSays.exe
+C:\Users\rober\Desktop\SimonSaysIndex\SimonSays\obj\x86\Debug\SimonSays.pdb
+C:\Users\BRENDAN\Downloads\SimonSays\SimonSays_v1.00\SimonSays\bin\Windows\x86\Debug\Content\Box.xnb
+C:\Users\BRENDAN\Downloads\SimonSays\SimonSays_v1.00\SimonSays\bin\Windows\x86\Debug\Content\Unpressed.xnb
+C:\Users\BRENDAN\Downloads\SimonSays\SimonSays_v1.00\SimonSays\bin\Windows\x86\Debug\SimonSays.exe
+C:\Users\BRENDAN\Downloads\SimonSays\SimonSays_v1.00\SimonSays\bin\Windows\x86\Debug\SimonSays.pdb
+C:\Users\BRENDAN\Downloads\SimonSays\SimonSays_v1.00\SimonSays\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\BRENDAN\Downloads\SimonSays\SimonSays_v1.00\SimonSays\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\BRENDAN\Downloads\SimonSays\SimonSays_v1.00\SimonSays\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\BRENDAN\Downloads\SimonSays\SimonSays_v1.00\SimonSays\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\BRENDAN\Downloads\SimonSays\SimonSays_v1.00\SimonSays\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\BRENDAN\Downloads\SimonSays\SimonSays_v1.00\SimonSays\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\BRENDAN\Downloads\SimonSays\SimonSays_v1.00\SimonSays\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\BRENDAN\Downloads\SimonSays\SimonSays_v1.00\SimonSays\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\BRENDAN\Downloads\SimonSays\SimonSays_v1.00\SimonSays\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\BRENDAN\Downloads\SimonSays\SimonSays_v1.00\SimonSays\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\BRENDAN\Downloads\SimonSays\SimonSays_v1.00\SimonSays\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\BRENDAN\Downloads\SimonSays\SimonSays_v1.00\SimonSays\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\BRENDAN\Downloads\SimonSays\SimonSays_v1.00\SimonSays\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\BRENDAN\Downloads\SimonSays\SimonSays_v1.00\SimonSays\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\BRENDAN\Downloads\SimonSays\SimonSays_v1.00\SimonSays\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\BRENDAN\Downloads\SimonSays\SimonSays_v1.00\SimonSays\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\BRENDAN\Downloads\SimonSays\SimonSays_v1.00\SimonSays\obj\x86\Debug\SimonSays.csprojAssemblyReference.cache
+C:\Users\BRENDAN\Downloads\SimonSays\SimonSays_v1.00\SimonSays\obj\x86\Debug\SimonSays.csproj.CopyComplete
+C:\Users\BRENDAN\Downloads\SimonSays\SimonSays_v1.00\SimonSays\obj\x86\Debug\SimonSays.exe
+C:\Users\BRENDAN\Downloads\SimonSays\SimonSays_v1.00\SimonSays\obj\x86\Debug\SimonSays.pdb
+C:\Users\BRENDAN\Downloads\SimonSays\SimonSays_v1.00\SimonSays\bin\Windows\x86\Debug\Content\Bright.xnb
+C:\Users\rober\Desktop\SimonSays_2\SimonSays\SimonSays_v1.00\SimonSays\bin\Windows\x86\Debug\Content\Box.xnb
+C:\Users\rober\Desktop\SimonSays_2\SimonSays\SimonSays_v1.00\SimonSays\bin\Windows\x86\Debug\Content\Bright.xnb
+C:\Users\rober\Desktop\SimonSays_2\SimonSays\SimonSays_v1.00\SimonSays\bin\Windows\x86\Debug\Content\Unpressed.xnb
+C:\Users\rober\Desktop\SimonSays_2\SimonSays\SimonSays_v1.00\SimonSays\bin\Windows\x86\Debug\SimonSays.exe
+C:\Users\rober\Desktop\SimonSays_2\SimonSays\SimonSays_v1.00\SimonSays\bin\Windows\x86\Debug\SimonSays.pdb
+C:\Users\rober\Desktop\SimonSays_2\SimonSays\SimonSays_v1.00\SimonSays\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\rober\Desktop\SimonSays_2\SimonSays\SimonSays_v1.00\SimonSays\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\rober\Desktop\SimonSays_2\SimonSays\SimonSays_v1.00\SimonSays\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\rober\Desktop\SimonSays_2\SimonSays\SimonSays_v1.00\SimonSays\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\rober\Desktop\SimonSays_2\SimonSays\SimonSays_v1.00\SimonSays\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\rober\Desktop\SimonSays_2\SimonSays\SimonSays_v1.00\SimonSays\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\rober\Desktop\SimonSays_2\SimonSays\SimonSays_v1.00\SimonSays\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\rober\Desktop\SimonSays_2\SimonSays\SimonSays_v1.00\SimonSays\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\rober\Desktop\SimonSays_2\SimonSays\SimonSays_v1.00\SimonSays\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\rober\Desktop\SimonSays_2\SimonSays\SimonSays_v1.00\SimonSays\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\rober\Desktop\SimonSays_2\SimonSays\SimonSays_v1.00\SimonSays\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\rober\Desktop\SimonSays_2\SimonSays\SimonSays_v1.00\SimonSays\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\rober\Desktop\SimonSays_2\SimonSays\SimonSays_v1.00\SimonSays\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\rober\Desktop\SimonSays_2\SimonSays\SimonSays_v1.00\SimonSays\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\rober\Desktop\SimonSays_2\SimonSays\SimonSays_v1.00\SimonSays\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\rober\Desktop\SimonSays_2\SimonSays\SimonSays_v1.00\SimonSays\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\rober\Desktop\SimonSays_2\SimonSays\SimonSays_v1.00\SimonSays\obj\x86\Debug\SimonSays.csprojAssemblyReference.cache
+C:\Users\rober\Desktop\SimonSays_2\SimonSays\SimonSays_v1.00\SimonSays\obj\x86\Debug\SimonSays.csproj.CopyComplete
+C:\Users\rober\Desktop\SimonSays_2\SimonSays\SimonSays_v1.00\SimonSays\obj\x86\Debug\SimonSays.exe
+C:\Users\rober\Desktop\SimonSays_2\SimonSays\SimonSays_v1.00\SimonSays\obj\x86\Debug\SimonSays.pdb
+C:\Users\BRENDAN\Downloads\SimonSays_V1.02\SimonSays_2\SimonSays\SimonSays_v1.00\SimonSays\bin\Windows\x86\Debug\Content\Box.xnb
+C:\Users\BRENDAN\Downloads\SimonSays_V1.02\SimonSays_2\SimonSays\SimonSays_v1.00\SimonSays\bin\Windows\x86\Debug\Content\Bright.xnb
+C:\Users\BRENDAN\Downloads\SimonSays_V1.02\SimonSays_2\SimonSays\SimonSays_v1.00\SimonSays\bin\Windows\x86\Debug\Content\Unpressed.xnb
+C:\Users\BRENDAN\Downloads\SimonSays_V1.02\SimonSays_2\SimonSays\SimonSays_v1.00\SimonSays\bin\Windows\x86\Debug\SimonSays.exe
+C:\Users\BRENDAN\Downloads\SimonSays_V1.02\SimonSays_2\SimonSays\SimonSays_v1.00\SimonSays\bin\Windows\x86\Debug\SimonSays.pdb
+C:\Users\BRENDAN\Downloads\SimonSays_V1.02\SimonSays_2\SimonSays\SimonSays_v1.00\SimonSays\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\BRENDAN\Downloads\SimonSays_V1.02\SimonSays_2\SimonSays\SimonSays_v1.00\SimonSays\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\BRENDAN\Downloads\SimonSays_V1.02\SimonSays_2\SimonSays\SimonSays_v1.00\SimonSays\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\BRENDAN\Downloads\SimonSays_V1.02\SimonSays_2\SimonSays\SimonSays_v1.00\SimonSays\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\BRENDAN\Downloads\SimonSays_V1.02\SimonSays_2\SimonSays\SimonSays_v1.00\SimonSays\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\BRENDAN\Downloads\SimonSays_V1.02\SimonSays_2\SimonSays\SimonSays_v1.00\SimonSays\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\BRENDAN\Downloads\SimonSays_V1.02\SimonSays_2\SimonSays\SimonSays_v1.00\SimonSays\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\BRENDAN\Downloads\SimonSays_V1.02\SimonSays_2\SimonSays\SimonSays_v1.00\SimonSays\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\BRENDAN\Downloads\SimonSays_V1.02\SimonSays_2\SimonSays\SimonSays_v1.00\SimonSays\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\BRENDAN\Downloads\SimonSays_V1.02\SimonSays_2\SimonSays\SimonSays_v1.00\SimonSays\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\BRENDAN\Downloads\SimonSays_V1.02\SimonSays_2\SimonSays\SimonSays_v1.00\SimonSays\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\BRENDAN\Downloads\SimonSays_V1.02\SimonSays_2\SimonSays\SimonSays_v1.00\SimonSays\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\BRENDAN\Downloads\SimonSays_V1.02\SimonSays_2\SimonSays\SimonSays_v1.00\SimonSays\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\BRENDAN\Downloads\SimonSays_V1.02\SimonSays_2\SimonSays\SimonSays_v1.00\SimonSays\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\BRENDAN\Downloads\SimonSays_V1.02\SimonSays_2\SimonSays\SimonSays_v1.00\SimonSays\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\BRENDAN\Downloads\SimonSays_V1.02\SimonSays_2\SimonSays\SimonSays_v1.00\SimonSays\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\BRENDAN\Downloads\SimonSays_V1.02\SimonSays_2\SimonSays\SimonSays_v1.00\SimonSays\obj\x86\Debug\SimonSays.csprojAssemblyReference.cache
+C:\Users\BRENDAN\Downloads\SimonSays_V1.02\SimonSays_2\SimonSays\SimonSays_v1.00\SimonSays\obj\x86\Debug\SimonSays.csproj.CopyComplete
+C:\Users\BRENDAN\Downloads\SimonSays_V1.02\SimonSays_2\SimonSays\SimonSays_v1.00\SimonSays\obj\x86\Debug\SimonSays.exe
+C:\Users\BRENDAN\Downloads\SimonSays_V1.02\SimonSays_2\SimonSays\SimonSays_v1.00\SimonSays\obj\x86\Debug\SimonSays.pdb
+C:\Users\rober\Desktop\SimonSays_V1.02_2\SimonSays_V1.02\SimonSays_2\SimonSays\SimonSays_v1.00\SimonSays\bin\Windows\x86\Debug\Content\Box.xnb
+C:\Users\rober\Desktop\SimonSays_V1.02_2\SimonSays_V1.02\SimonSays_2\SimonSays\SimonSays_v1.00\SimonSays\bin\Windows\x86\Debug\Content\Bright.xnb
+C:\Users\rober\Desktop\SimonSays_V1.02_2\SimonSays_V1.02\SimonSays_2\SimonSays\SimonSays_v1.00\SimonSays\bin\Windows\x86\Debug\Content\Unpressed.xnb
+C:\Users\rober\Desktop\SimonSays_V1.02_2\SimonSays_V1.02\SimonSays_2\SimonSays\SimonSays_v1.00\SimonSays\bin\Windows\x86\Debug\SimonSays.exe
+C:\Users\rober\Desktop\SimonSays_V1.02_2\SimonSays_V1.02\SimonSays_2\SimonSays\SimonSays_v1.00\SimonSays\bin\Windows\x86\Debug\SimonSays.pdb
+C:\Users\rober\Desktop\SimonSays_V1.02_2\SimonSays_V1.02\SimonSays_2\SimonSays\SimonSays_v1.00\SimonSays\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\rober\Desktop\SimonSays_V1.02_2\SimonSays_V1.02\SimonSays_2\SimonSays\SimonSays_v1.00\SimonSays\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\rober\Desktop\SimonSays_V1.02_2\SimonSays_V1.02\SimonSays_2\SimonSays\SimonSays_v1.00\SimonSays\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\rober\Desktop\SimonSays_V1.02_2\SimonSays_V1.02\SimonSays_2\SimonSays\SimonSays_v1.00\SimonSays\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\rober\Desktop\SimonSays_V1.02_2\SimonSays_V1.02\SimonSays_2\SimonSays\SimonSays_v1.00\SimonSays\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\rober\Desktop\SimonSays_V1.02_2\SimonSays_V1.02\SimonSays_2\SimonSays\SimonSays_v1.00\SimonSays\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\rober\Desktop\SimonSays_V1.02_2\SimonSays_V1.02\SimonSays_2\SimonSays\SimonSays_v1.00\SimonSays\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\rober\Desktop\SimonSays_V1.02_2\SimonSays_V1.02\SimonSays_2\SimonSays\SimonSays_v1.00\SimonSays\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\rober\Desktop\SimonSays_V1.02_2\SimonSays_V1.02\SimonSays_2\SimonSays\SimonSays_v1.00\SimonSays\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\rober\Desktop\SimonSays_V1.02_2\SimonSays_V1.02\SimonSays_2\SimonSays\SimonSays_v1.00\SimonSays\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\rober\Desktop\SimonSays_V1.02_2\SimonSays_V1.02\SimonSays_2\SimonSays\SimonSays_v1.00\SimonSays\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\rober\Desktop\SimonSays_V1.02_2\SimonSays_V1.02\SimonSays_2\SimonSays\SimonSays_v1.00\SimonSays\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\rober\Desktop\SimonSays_V1.02_2\SimonSays_V1.02\SimonSays_2\SimonSays\SimonSays_v1.00\SimonSays\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\rober\Desktop\SimonSays_V1.02_2\SimonSays_V1.02\SimonSays_2\SimonSays\SimonSays_v1.00\SimonSays\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\rober\Desktop\SimonSays_V1.02_2\SimonSays_V1.02\SimonSays_2\SimonSays\SimonSays_v1.00\SimonSays\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\rober\Desktop\SimonSays_V1.02_2\SimonSays_V1.02\SimonSays_2\SimonSays\SimonSays_v1.00\SimonSays\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\rober\Desktop\SimonSays_V1.02_2\SimonSays_V1.02\SimonSays_2\SimonSays\SimonSays_v1.00\SimonSays\obj\x86\Debug\SimonSays.csprojAssemblyReference.cache
+C:\Users\rober\Desktop\SimonSays_V1.02_2\SimonSays_V1.02\SimonSays_2\SimonSays\SimonSays_v1.00\SimonSays\obj\x86\Debug\SimonSays.csproj.CopyComplete
+C:\Users\rober\Desktop\SimonSays_V1.02_2\SimonSays_V1.02\SimonSays_2\SimonSays\SimonSays_v1.00\SimonSays\obj\x86\Debug\SimonSays.exe
+C:\Users\rober\Desktop\SimonSays_V1.02_2\SimonSays_V1.02\SimonSays_2\SimonSays\SimonSays_v1.00\SimonSays\obj\x86\Debug\SimonSays.pdb
+C:\Users\rober\Desktop\SimonSays_V1.02_2\SimonSays_V1.02\SimonSays_2\SimonSays\SimonSays_v1.00\SimonSays\bin\Windows\x86\Debug\Content\Font.xnb
+C:\Users\rober\Desktop\SimonSays_V2.0\SimonSays\bin\Windows\x86\Debug\Content\Box.xnb
+C:\Users\rober\Desktop\SimonSays_V2.0\SimonSays\bin\Windows\x86\Debug\Content\Bright.xnb
+C:\Users\rober\Desktop\SimonSays_V2.0\SimonSays\bin\Windows\x86\Debug\Content\Font.xnb
+C:\Users\rober\Desktop\SimonSays_V2.0\SimonSays\bin\Windows\x86\Debug\Content\Unpressed.xnb
+C:\Users\rober\Desktop\SimonSays_V2.0\SimonSays\bin\Windows\x86\Debug\SimonSays.exe
+C:\Users\rober\Desktop\SimonSays_V2.0\SimonSays\bin\Windows\x86\Debug\SimonSays.pdb
+C:\Users\rober\Desktop\SimonSays_V2.0\SimonSays\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\rober\Desktop\SimonSays_V2.0\SimonSays\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\rober\Desktop\SimonSays_V2.0\SimonSays\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\rober\Desktop\SimonSays_V2.0\SimonSays\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\rober\Desktop\SimonSays_V2.0\SimonSays\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\rober\Desktop\SimonSays_V2.0\SimonSays\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\rober\Desktop\SimonSays_V2.0\SimonSays\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\rober\Desktop\SimonSays_V2.0\SimonSays\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\rober\Desktop\SimonSays_V2.0\SimonSays\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\rober\Desktop\SimonSays_V2.0\SimonSays\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\rober\Desktop\SimonSays_V2.0\SimonSays\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\rober\Desktop\SimonSays_V2.0\SimonSays\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\rober\Desktop\SimonSays_V2.0\SimonSays\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\rober\Desktop\SimonSays_V2.0\SimonSays\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\rober\Desktop\SimonSays_V2.0\SimonSays\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\rober\Desktop\SimonSays_V2.0\SimonSays\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\rober\Desktop\SimonSays_V2.0\SimonSays\obj\x86\Debug\SimonSays.csprojAssemblyReference.cache
+C:\Users\rober\Desktop\SimonSays_V2.0\SimonSays\obj\x86\Debug\SimonSays.csproj.CopyComplete
+C:\Users\rober\Desktop\SimonSays_V2.0\SimonSays\obj\x86\Debug\SimonSays.exe
+C:\Users\rober\Desktop\SimonSays_V2.0\SimonSays\obj\x86\Debug\SimonSays.pdb
+C:\Users\rober\Desktop\SimonSays V2.2\SimonSays\bin\Windows\x86\Debug\Content\Box.xnb
+C:\Users\rober\Desktop\SimonSays V2.2\SimonSays\bin\Windows\x86\Debug\Content\Bright.xnb
+C:\Users\rober\Desktop\SimonSays V2.2\SimonSays\bin\Windows\x86\Debug\Content\Font.xnb
+C:\Users\rober\Desktop\SimonSays V2.2\SimonSays\bin\Windows\x86\Debug\Content\Unpressed.xnb
+C:\Users\rober\Desktop\SimonSays V2.2\SimonSays\bin\Windows\x86\Debug\SimonSays.exe
+C:\Users\rober\Desktop\SimonSays V2.2\SimonSays\bin\Windows\x86\Debug\SimonSays.pdb
+C:\Users\rober\Desktop\SimonSays V2.2\SimonSays\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\rober\Desktop\SimonSays V2.2\SimonSays\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\rober\Desktop\SimonSays V2.2\SimonSays\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\rober\Desktop\SimonSays V2.2\SimonSays\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\rober\Desktop\SimonSays V2.2\SimonSays\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\rober\Desktop\SimonSays V2.2\SimonSays\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\rober\Desktop\SimonSays V2.2\SimonSays\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\rober\Desktop\SimonSays V2.2\SimonSays\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\rober\Desktop\SimonSays V2.2\SimonSays\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\rober\Desktop\SimonSays V2.2\SimonSays\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\rober\Desktop\SimonSays V2.2\SimonSays\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\rober\Desktop\SimonSays V2.2\SimonSays\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\rober\Desktop\SimonSays V2.2\SimonSays\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\rober\Desktop\SimonSays V2.2\SimonSays\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\rober\Desktop\SimonSays V2.2\SimonSays\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\rober\Desktop\SimonSays V2.2\SimonSays\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\rober\Desktop\SimonSays V2.2\SimonSays\obj\x86\Debug\SimonSays.csproj.CopyComplete
+C:\Users\rober\Desktop\SimonSays V2.2\SimonSays\obj\x86\Debug\SimonSays.exe
+C:\Users\rober\Desktop\SimonSays V2.2\SimonSays\obj\x86\Debug\SimonSays.pdb
+C:\Users\rober\Desktop\SimonSays V2.2\SimonSays\obj\x86\Debug\SimonSays.csproj.AssemblyReference.cache
+C:\Users\rober\Desktop\SimonSays V2.2\SimonSays\obj\x86\Debug\SimonSays.csproj.CoreCompileInputs.cache
+C:\Users\rober\Desktop\Games made in school\SimonSays V2.2\SimonSays\bin\Windows\x86\Debug\Content\Box.xnb
+C:\Users\rober\Desktop\Games made in school\SimonSays V2.2\SimonSays\bin\Windows\x86\Debug\Content\Bright.xnb
+C:\Users\rober\Desktop\Games made in school\SimonSays V2.2\SimonSays\bin\Windows\x86\Debug\Content\Font.xnb
+C:\Users\rober\Desktop\Games made in school\SimonSays V2.2\SimonSays\bin\Windows\x86\Debug\Content\Unpressed.xnb
+C:\Users\rober\Desktop\Games made in school\SimonSays V2.2\SimonSays\bin\Windows\x86\Debug\SimonSays.exe
+C:\Users\rober\Desktop\Games made in school\SimonSays V2.2\SimonSays\bin\Windows\x86\Debug\SimonSays.pdb
+C:\Users\rober\Desktop\Games made in school\SimonSays V2.2\SimonSays\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\rober\Desktop\Games made in school\SimonSays V2.2\SimonSays\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\rober\Desktop\Games made in school\SimonSays V2.2\SimonSays\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\rober\Desktop\Games made in school\SimonSays V2.2\SimonSays\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\rober\Desktop\Games made in school\SimonSays V2.2\SimonSays\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\rober\Desktop\Games made in school\SimonSays V2.2\SimonSays\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\rober\Desktop\Games made in school\SimonSays V2.2\SimonSays\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\rober\Desktop\Games made in school\SimonSays V2.2\SimonSays\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\rober\Desktop\Games made in school\SimonSays V2.2\SimonSays\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\rober\Desktop\Games made in school\SimonSays V2.2\SimonSays\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\rober\Desktop\Games made in school\SimonSays V2.2\SimonSays\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\rober\Desktop\Games made in school\SimonSays V2.2\SimonSays\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\rober\Desktop\Games made in school\SimonSays V2.2\SimonSays\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\rober\Desktop\Games made in school\SimonSays V2.2\SimonSays\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\rober\Desktop\Games made in school\SimonSays V2.2\SimonSays\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\rober\Desktop\Games made in school\SimonSays V2.2\SimonSays\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\rober\Desktop\Games made in school\SimonSays V2.2\SimonSays\obj\x86\Debug\SimonSays.csproj.AssemblyReference.cache
+C:\Users\rober\Desktop\Games made in school\SimonSays V2.2\SimonSays\obj\x86\Debug\SimonSays.csproj.CoreCompileInputs.cache
+C:\Users\rober\Desktop\Games made in school\SimonSays V2.2\SimonSays\obj\x86\Debug\SimonSays.csproj.CopyComplete
+C:\Users\rober\Desktop\Games made in school\SimonSays V2.2\SimonSays\obj\x86\Debug\SimonSays.exe
+C:\Users\rober\Desktop\Games made in school\SimonSays V2.2\SimonSays\obj\x86\Debug\SimonSays.pdb
+C:\Users\rober\Desktop\Four_Games_Atrifact_Project\SimonSays V2.2\SimonSays\bin\Windows\x86\Debug\Content\Box.xnb
+C:\Users\rober\Desktop\Four_Games_Atrifact_Project\SimonSays V2.2\SimonSays\bin\Windows\x86\Debug\Content\Bright.xnb
+C:\Users\rober\Desktop\Four_Games_Atrifact_Project\SimonSays V2.2\SimonSays\bin\Windows\x86\Debug\Content\Font.xnb
+C:\Users\rober\Desktop\Four_Games_Atrifact_Project\SimonSays V2.2\SimonSays\bin\Windows\x86\Debug\Content\Unpressed.xnb
+C:\Users\rober\Desktop\Four_Games_Atrifact_Project\SimonSays V2.2\SimonSays\bin\Windows\x86\Debug\SimonSays.exe
+C:\Users\rober\Desktop\Four_Games_Atrifact_Project\SimonSays V2.2\SimonSays\bin\Windows\x86\Debug\SimonSays.pdb
+C:\Users\rober\Desktop\Four_Games_Atrifact_Project\SimonSays V2.2\SimonSays\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\rober\Desktop\Four_Games_Atrifact_Project\SimonSays V2.2\SimonSays\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\rober\Desktop\Four_Games_Atrifact_Project\SimonSays V2.2\SimonSays\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\rober\Desktop\Four_Games_Atrifact_Project\SimonSays V2.2\SimonSays\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\rober\Desktop\Four_Games_Atrifact_Project\SimonSays V2.2\SimonSays\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\rober\Desktop\Four_Games_Atrifact_Project\SimonSays V2.2\SimonSays\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\rober\Desktop\Four_Games_Atrifact_Project\SimonSays V2.2\SimonSays\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\rober\Desktop\Four_Games_Atrifact_Project\SimonSays V2.2\SimonSays\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\rober\Desktop\Four_Games_Atrifact_Project\SimonSays V2.2\SimonSays\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\rober\Desktop\Four_Games_Atrifact_Project\SimonSays V2.2\SimonSays\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\rober\Desktop\Four_Games_Atrifact_Project\SimonSays V2.2\SimonSays\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\rober\Desktop\Four_Games_Atrifact_Project\SimonSays V2.2\SimonSays\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\rober\Desktop\Four_Games_Atrifact_Project\SimonSays V2.2\SimonSays\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\rober\Desktop\Four_Games_Atrifact_Project\SimonSays V2.2\SimonSays\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\rober\Desktop\Four_Games_Atrifact_Project\SimonSays V2.2\SimonSays\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\rober\Desktop\Four_Games_Atrifact_Project\SimonSays V2.2\SimonSays\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\rober\Desktop\Four_Games_Atrifact_Project\SimonSays V2.2\SimonSays\obj\x86\Debug\SimonSays.csproj.AssemblyReference.cache
+C:\Users\rober\Desktop\Four_Games_Atrifact_Project\SimonSays V2.2\SimonSays\obj\x86\Debug\SimonSays.csproj.CoreCompileInputs.cache
+C:\Users\rober\Desktop\Four_Games_Atrifact_Project\SimonSays V2.2\SimonSays\obj\x86\Debug\SimonSays.csproj.CopyComplete
+C:\Users\rober\Desktop\Four_Games_Atrifact_Project\SimonSays V2.2\SimonSays\obj\x86\Debug\SimonSays.exe
+C:\Users\rober\Desktop\Four_Games_Atrifact_Project\SimonSays V2.2\SimonSays\obj\x86\Debug\SimonSays.pdb

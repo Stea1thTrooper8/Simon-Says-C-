@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/rober/Desktop/SimonSays_V1.02_2/SimonSays_V1.02/SimonSays_2/SimonSays/SimonSays_v1.00/SimonSays/Content/File.spritefont</SourceFile>
+  <SourceTime>2020-11-09T15:28:41.6689968-05:00</SourceTime>
+  <DestFile>C:/Users/rober/Desktop/SimonSays_V1.02_2/SimonSays_V1.02/SimonSays_2/SimonSays/SimonSays_v1.00/SimonSays/Content/bin/Windows/Font.xnb</DestFile>
+  <DestTime>2020-11-09T15:33:47.2349928-05:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2018-12-08T11:35:54-05:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2018-12-08T11:35:54-05:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
